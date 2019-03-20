@@ -1,7 +1,6 @@
 import React,{Component }from 'react';
 import Header from './Header'
 import FbButton from './FbButton'
-//Hi
 
 class App extends Component{
   state = {like:0, dislike:0}
